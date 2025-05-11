@@ -116,12 +116,6 @@ Ideas for improvement:
 
 ---
 
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgements
 
 - [LangChain](https://github.com/langchain-ai/langchain)  
