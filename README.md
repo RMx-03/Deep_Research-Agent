@@ -72,19 +72,21 @@ Whether you're writing a research paper or exploring a technical topic, this ass
 ---
 
 ## 📁 Project Structure
-
-deep-research-agent/
-│
-├── src/
-│ ├── core/ # Core logic: planning, routing, agent execution
-│ ├── ui/ # Streamlit-based UI
-│ ├── utils/ # Helper utilities and constants
-│
-├── assets/ # Demo images/videos
-├── .env.example # Example environment config
-├── requirements.txt # Python dependencies
-└── README.md
-
+   ```bash
+   deep-research-agent/
+   │
+   ├── src/
+   │ ├──agents/ # agent execution
+   │ ├── core/ # Core logic: planning, routing 
+   │ ├── ui/ # Streamlit-based UI
+   │ ├── llm/ # Helper 
+   │
+   ├── main.py
+   ├── chroma_store/ # Local Storage
+   ├── .env.example # Example environment config
+   ├── requirements.txt # Python dependencies
+   └── README.md
+   ```
 
 ---
 
