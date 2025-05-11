@@ -1,0 +1,4 @@
+.env
+venv/
+deep_research_agent.egg-info/
+__pycache__/

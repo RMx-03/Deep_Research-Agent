@@ -1,0 +1,9 @@
+langchain
+tavily-python
+llama-index
+python-dotenv
+newspaper3k
+sentence-transformers
+chromadb
+cohere
+streamlit
